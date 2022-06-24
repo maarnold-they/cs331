@@ -1,2 +1,2 @@
 # cs331
-Code for UAF CS 311: Programming Languages
+Code for UAF CS 331: Programming Languages
